@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start": "vite preview --port 80"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tanstack/react-query": "^4.19.1",
